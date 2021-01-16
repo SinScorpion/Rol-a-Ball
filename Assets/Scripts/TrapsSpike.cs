@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Danger
 {
-    public class Spike : Traps
+    public class TrapsSpike : Traps
     {
         // Start is called before the first frame update
         void Start()
